@@ -1,0 +1,11 @@
+Item,Category,Unit,Carbon Factor (kgCO2e/unit),Source/Notes
+Fire sprinklers,Active fire protection,head,4.8,Placeholder factor - replace with verified EPD/database value
+Smoke detectors,Detection and alarm,unit,2.1,Placeholder factor - replace with verified EPD/database value
+Fire extinguishers,Portable equipment,unit,18.0,Placeholder factor - replace with verified EPD/database value
+Fire door system,Passive fire protection,door,120.0,Placeholder factor - replace with verified EPD/database value
+Fire hydrant,Water-based systems,unit,150.0,Placeholder factor - replace with verified EPD/database value
+Fire damper,HVAC fire protection,unit,30.0,Placeholder factor - replace with verified EPD/database value
+Fire stop mortar,Passive fire protection,kg,1.1,Placeholder factor - replace with verified EPD/database value
+Fire-rated steel pipe,Water-based systems,m,12.0,Placeholder factor - replace with verified EPD/database value
+Fire-retardant panel,Passive fire protection,m2,18.0,Placeholder factor - replace with verified EPD/database value
+Fire blocker,Passive fire protection,unit,8.0,Placeholder factor - replace with verified EPD/database value
